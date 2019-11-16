@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38755" started-at="2019-11-16T03:36:20Z" finished-at="2019-11-16T03:36:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38755" started-at="2019-11-16T03:36:20Z" finished-at="2019-11-16T03:36:59Z">
+      <class name="org.hcl.abc.testcases.TC_001_Login_Functionality">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:org.hcl.abc.testcases.TC_001_Login_Functionality@55f3ddb1]" name="startReport" is-config="true" duration-ms="386" started-at="2019-11-16T09:06:20Z" finished-at="2019-11-16T09:06:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="browserStart()[pri:0, instance:org.hcl.abc.testcases.TC_001_Login_Functionality@55f3ddb1]" name="browserStart" is-config="true" duration-ms="30339" started-at="2019-11-16T09:06:20Z" finished-at="2019-11-16T09:06:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserStart -->
+        <test-method status="PASS" signature="tc001()[pri:0, instance:org.hcl.abc.testcases.TC_001_Login_Functionality@55f3ddb1]" name="tc001" duration-ms="8378" started-at="2019-11-16T09:06:51Z" finished-at="2019-11-16T09:06:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:org.hcl.abc.testcases.TC_001_Login_Functionality@55f3ddb1]" name="closeBrowser" is-config="true" duration-ms="1" started-at="2019-11-16T09:06:59Z" finished-at="2019-11-16T09:06:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="saveReport()[pri:0, instance:org.hcl.abc.testcases.TC_001_Login_Functionality@55f3ddb1]" name="saveReport" is-config="true" duration-ms="937" started-at="2019-11-16T09:06:59Z" finished-at="2019-11-16T09:07:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- saveReport -->
+      </class> <!-- org.hcl.abc.testcases.TC_001_Login_Functionality -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
